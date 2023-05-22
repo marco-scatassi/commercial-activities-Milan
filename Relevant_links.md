@@ -1,5 +1,8 @@
 # Relevant link 
 
+## Essay description
+- https://elearning.unimib.it/pluginfile.php/1492558/mod_resource/content/0/Essay-description.pdf
+
 ## Open Data Lombardia
 - https://www.dati.lombardia.it/Commercio/Serie-Storica-Esercizi-di-Vicinato/3aeg-482n
 - https://www.dati.lombardia.it/Commercio/Anagrafica-Esercizi-di-Vicinato/mtva-9hrb

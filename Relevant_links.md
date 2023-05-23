@@ -1,5 +1,10 @@
 # Relevant link 
 
+## DATA CURRENTLY USED
+- https://osmit-estratti.wmcloud.org/dati/poly/comuni/gpkg/015146_Milano.gpkg
+- https://dati.comune.milano.it/dataset/36ee65f6-c1a2-4734-84e9-50135bf63b34/resource/6fd7172e-4c9a-48ee-b866-2c74c401c214/download/ds27_pop_sto_quartiere_1999_2022.zip
+- https://dati.comune.milano.it/dataset/e5a0d956-2eff-454d-b0ea-659cb7b55c0b/resource/af78bd3f-ea45-403a-8882-91cca05087f0/download/nilzone.geojson
+
 ## Essay description
 - https://elearning.unimib.it/pluginfile.php/1492558/mod_resource/content/0/Essay-description.pdf
 

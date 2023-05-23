@@ -15,7 +15,6 @@
 - [4] http://www.foodpolicymilano.org/wp-content/uploads/2015/04/Rapporto-Sistema-del-Cibo-di-Milano.pdf
 - [5] https://transformtransport.org/research/livable-streets/walkability-and-the-15-minute-city-model-an-integrated-approach-for-the-city-of-milan/ (**Walkability and the 15-minute City Model: An Integrated Approach for the City of Milan**)
 
-
 ## Open Data Lombardia
 - https://www.dati.lombardia.it/Commercio/Serie-Storica-Esercizi-di-Vicinato/3aeg-482n
 - https://www.dati.lombardia.it/Commercio/Anagrafica-Esercizi-di-Vicinato/mtva-9hrb

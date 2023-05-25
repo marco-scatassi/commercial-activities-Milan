@@ -1,5 +1,10 @@
 # Relevant link 
 
+## DATA CURRENTLY USED
+- https://osmit-estratti.wmcloud.org/dati/poly/comuni/gpkg/015146_Milano.gpkg
+- https://dati.comune.milano.it/dataset/36ee65f6-c1a2-4734-84e9-50135bf63b34/resource/6fd7172e-4c9a-48ee-b866-2c74c401c214/download/ds27_pop_sto_quartiere_1999_2022.zip
+- https://dati.comune.milano.it/dataset/e5a0d956-2eff-454d-b0ea-659cb7b55c0b/resource/af78bd3f-ea45-403a-8882-91cca05087f0/download/nilzone.geojson
+
 ## Essay description
 - https://elearning.unimib.it/pluginfile.php/1492558/mod_resource/content/0/Essay-description.pdf
 
@@ -14,7 +19,6 @@
 - [8] suistainable EU food system law: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13174-Sustainable-EU-food-system-new-initiative_en 
 - [9] protocollo zero-sprechi milano: https://st.ilsole24ore.com/art/food/2016-10-28/milano-firmato-protocollo-tre-la-smart-city-anti-sprechi-133302.shtml?uuid=ADc1XDlB
 - [10] logistica urbana merci pre/post covid da pag.56: https://www.transportenvironment.org/wp-content/uploads/2022/03/Rapporto_Mobilitaria2020_DEFINITIVO_maggio2020-compressed.pdf 
-
 
 ## Open Data Lombardia
 - https://www.dati.lombardia.it/Commercio/Serie-Storica-Esercizi-di-Vicinato/3aeg-482n
